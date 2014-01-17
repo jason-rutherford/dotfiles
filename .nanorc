@@ -16,7 +16,7 @@
 ## ", ', ), >, ], and }.
 
 ## Use auto-indentation.
-# set autoindent
+set autoindent
 
 ## Backup files to filename~.
 # set backup
@@ -42,7 +42,7 @@
 
 ## Constantly display the cursor position in the statusbar.  Note that
 ## this overrides "quickblank".
-# set const
+set const
 
 ## Use cut to end of line by default.
 # set cut
@@ -60,7 +60,7 @@ set historylog
 ## searches.  They cannot contain blank characters.  The former set must
 ## come before the latter set, and both must be in the same order.
 ##
-# set matchbrackets "(<[{)>]}"
+set matchbrackets "(<[{)>]}"
 
 ## Use the blank line below the titlebar as extra editing space.
 # set morespace
@@ -139,7 +139,7 @@ set nowrap
 # set smarthome
 
 ## Use smooth scrolling as the default.
-# set smooth
+set smooth
 
 ## Use this spelling checker instead of the internal one.  This option
 ## does not properly have a default value.
@@ -150,10 +150,10 @@ set nowrap
 set suspend
 
 ## Use this tab size instead of the default; it must be greater than 0.
-# set tabsize 8
+set tabsize 2
 
 ## Convert typed tabs to spaces.
-# set tabstospaces
+set tabstospaces
 
 ## Save automatically on exit, don't prompt.
 # set tempfile
