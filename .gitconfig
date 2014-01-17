@@ -89,3 +89,6 @@
 
 [push]
 	default = matching
+
+[include]
+  path = .git_user
